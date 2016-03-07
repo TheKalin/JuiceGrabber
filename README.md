@@ -1,1 +1,5 @@
 # JuiceGrabber
+TODO: CODE
+TODO: DESC
+TODO: DEMOS
+
